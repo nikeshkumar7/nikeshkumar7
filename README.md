@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Introduction to Generative AI Learning Path**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikeshkumar7/nikeshkumar7](https://github.com/nikeshkumar7/nikeshkumar7)
+- 👨‍💻 All of my projects are available at [https://github.com/nikeshkumar7/nikeshkumar7](https://github.com/nikeshkumar7/Projects)
 
 - 📫 How to reach me **nikeshkumarrajg6@gmail.com**
 
